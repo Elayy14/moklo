@@ -70,7 +70,10 @@
     color: black;
     font-weight: 500;
   }
-  
+  .navbar a:hover{
+    text-decoration: underline;
+    color: violet;
+  }
   .text-container {
     justify-content: center;
     background-color: var(--bg-color);
